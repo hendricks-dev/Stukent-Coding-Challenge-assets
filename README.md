@@ -1,0 +1,1 @@
+Assets for Stukent Front End Skills Test
